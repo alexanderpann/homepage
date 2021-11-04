@@ -7,11 +7,28 @@ export default class AppComponent extends React.Component {
     
     return (
     <>
+            
+        <Card fluid>
+            <Card.Content>
+                <Card.Header>itemis</Card.Header>
+                <Card.Meta>
+                    <span className='date'>2021 - present</span>
+                </Card.Meta>
+                <Card.Description>
+                Language Engineer using JetBrains MPS (full time)
+                </Card.Description>
+            </Card.Content>
+            <Card.Content extra>
+                <figure>
+                    <Image href="https://itemis.com" rel="noreferrer" target="_blank" src='https://it-mitteldeutschland.de/wp-content/uploads/2020/06/itemis-Logo-blau-rgb-website.png' alt="itemis" size="medium" />
+                </figure>
+            </Card.Content>
+        </Card>
         <Card fluid>
             <Card.Content>
                 <Card.Header> Freelance work for ams AG</Card.Header>
                 <Card.Meta>
-                    <span className='date'>2013 - present</span>
+                    <span className='date'>2013 - 2021</span>
                 </Card.Meta>
                 <Card.Description>
                     Development of 30+ scripts and web tools that are used in production and by clients of ams AG. <i>(web technologies, Python)</i>
