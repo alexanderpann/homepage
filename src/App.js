@@ -137,9 +137,7 @@ class Content extends React.Component {
             <Route exact path="/wafer_layout" render={() => {window.location.href="/Wafer_Layout_and_Yield_Simulator/index.html"}}>
               
             </Route>
-            <Route path="*">
-              <Redirect to="/" />
-              </Route>
+
           </Router>
         </Grid.Column>
       </Grid.Row>
