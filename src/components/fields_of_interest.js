@@ -12,19 +12,19 @@ export default class FieldsOfInterestComponent extends React.Component {
             <b>Functional programming</b>:
             <List verticalAlign='middle'>
                 <List.Item>
-                <Image avatar src='/images/haskell.png' alt="Haskell" />
+                <Image avatar src='images/haskell.png' alt="Haskell" />
                 <List.Content>
                     Haskell
                 </List.Content>
                 </List.Item>
                 <List.Item>
-                <Image avatar src='/images/f_sharp.png' alt="F Sharp" />
+                <Image avatar src='images/f_sharp.png' alt="F Sharp" />
                 <List.Content>
                     F#
                 </List.Content>
                 </List.Item>
                 <List.Item>
-                <Image avatar src='/images/scala.png' alt="Scala" />
+                <Image avatar src='images/scala.png' alt="Scala" />
                 <List.Content>
                     Scala
                 </List.Content>

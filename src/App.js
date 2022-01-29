@@ -15,7 +15,6 @@ import {
   NavLink,
   Switch,
   Route,
-  Redirect
 } from "react-router-dom";
 
 import Work from './components/work'

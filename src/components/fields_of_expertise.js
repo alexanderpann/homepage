@@ -12,25 +12,25 @@ export default class FieldsOfExpertiseComponent extends React.Component {
         <b>Web technologies:</b>
         <List horizontal>
         <List.Item>
-            <Image avatar src='/images/html5.png' alt="HTML5" />
+            <Image avatar src='images/html5.png' alt="HTML5" />
             <List.Content>
             HTML5
             </List.Content>
         </List.Item>
         <List.Item>
-            <Image avatar src='/images/react.png' alt="React" />
+            <Image avatar src='images/react.png' alt="React" />
             <List.Content>
             React
             </List.Content>
         </List.Item>
         <List.Item>
-            <Image avatar src='/images/vue.png' alt="Vue" />
+            <Image avatar src='images/vue.png' alt="Vue" />
             <List.Content>
             Vue
             </List.Content>
         </List.Item>
         <List.Item>
-            <Image avatar src='/images/es6.jpeg' alt="JavaScript ES6" />
+            <Image avatar src='images/es6.jpeg' alt="JavaScript ES6" />
             <List.Content>
             JavaScript ES6
             </List.Content>
@@ -40,19 +40,19 @@ export default class FieldsOfExpertiseComponent extends React.Component {
         <b>Mobile:</b>
         <List horizontal>
         <List.Item>
-            <Image avatar src='/images/java.png' alt="Java" />
+            <Image avatar src='images/java.png' alt="Java" />
             <List.Content>
             Java
             </List.Content>
         </List.Item>
         <List.Item>
-            <Image avatar src='/images/android.png' alt="Android" />
+            <Image avatar src='images/android.png' alt="Android" />
             <List.Content>
             Android
             </List.Content>
         </List.Item>
         <List.Item>
-            <Image avatar src='/images/kotlin.png' alt="Kotlin" />
+            <Image avatar src='images/kotlin.png' alt="Kotlin" />
             <List.Content>
             Kotlin
             </List.Content>
@@ -62,7 +62,7 @@ export default class FieldsOfExpertiseComponent extends React.Component {
         <b>Scripts:</b>
         <List horizontal>
         <List.Item>
-            <Image avatar src='/images/python.png' alt="Python" />
+            <Image avatar src='images/python.png' alt="Python" />
             <List.Content>
             Python
             </List.Content>
@@ -72,7 +72,7 @@ export default class FieldsOfExpertiseComponent extends React.Component {
         <b><acronym title="domain specific language">DSL</acronym>:</b>
         <List horizontal>
         <List.Item>
-            <Image avatar src='/images/mps.png' alt="JetBrains MPS" />
+            <Image avatar src='images/mps.png' alt="JetBrains MPS" />
             <List.Content>
             JetBrains MPS
             </List.Content>
