@@ -113,7 +113,7 @@ class Content extends React.Component {
                   </Breadcrumb.Section>
                   <Breadcrumb.Divider />
                   <Breadcrumb.Section link>
-                    <a href="https://github.com/fxlex" rel="noreferrer" target="_blank"><Icon name='github' /></a>
+                    <a href="https://github.com/alexanderpann" rel="noreferrer" target="_blank"><Icon name='github' /></a>
                   </Breadcrumb.Section>
                   <Breadcrumb.Divider />
                   <Breadcrumb.Section>
@@ -121,7 +121,7 @@ class Content extends React.Component {
                   </Breadcrumb.Section>
                   <Breadcrumb.Divider />
                   <Breadcrumb.Section>
-                    <a href="https://github.com/fxlex/fxlex.github.io" rel="noreferrer" target="_blank"><Icon name='code' /></a>
+                    <a href="https://github.com/alexanderpann/homepage" rel="noreferrer" target="_blank"><Icon name='code' /></a>
                   </Breadcrumb.Section>
                   
                 </Breadcrumb>
