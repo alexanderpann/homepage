@@ -94,12 +94,12 @@ class Content extends React.Component {
               </Reveal.Content>
             </Reveal>
             <Card.Content>
-              <Card.Header>Alexander Pann, B.Sc.</Card.Header>
+              <Card.Header>Alexander Pann, M.Sc.</Card.Header>
               <Card.Meta>
-                <span>Computer Scientist</span>
+                <span>Software developer / IT consultant</span>
               </Card.Meta>
               <Card.Description>
-                Alexander is a computer science student currently studying for his master's degree.<br />
+                I am a software developer and IT consultant currently working for itemis AG.<br />
               </Card.Description>
               <Card.Content extra>
                 <Breadcrumb>
