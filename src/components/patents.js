@@ -14,8 +14,9 @@ export default class PatentsComponent extends React.Component {
             <span className='date'>2020</span>
           </Card.Meta>
           <Card.Description>
-        Status: pending<br />
-      Countries: USA, Europe, China, Korea, Japan
+          Title: Camera system, mobile device and method of operating a mobile device for multi-focus imaging<br />
+        <a href="https://patents.google.com/patent/WO2022106720A1">Google patents</a><br />
+      Countries: worldwide
           </Card.Description>
         </Card.Content>
         <Card.Content extra>
