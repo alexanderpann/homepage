@@ -129,7 +129,7 @@ class Content extends React.Component {
           </Card>
         </Grid.Column>
         <Grid.Column largeScreen={6} computer={9} mobile={16}>
-          <Router>
+          <Router basename="/homepage">
             <Switch>
               <Tab panes={panes} defaultActiveIndex={defaultActiveIndex}   menu={{ borderless: true, attached: false, tabular: false, className: "wrapped" }} />
             </Switch>
